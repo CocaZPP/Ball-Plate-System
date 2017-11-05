@@ -1,0 +1,17 @@
+..\obj\key_scan.o: ..\HARDWARE\key_scan\key_scan.c
+..\obj\key_scan.o: ..\HARDWARE\key_scan\key_scan.h
+..\obj\key_scan.o: ..\SYSTEM\sys\sys.h
+..\obj\key_scan.o: ..\USER\stm32f10x.h
+..\obj\key_scan.o: ..\CORE\core_cm3.h
+..\obj\key_scan.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\key_scan.o: ..\USER\system_stm32f10x.h
+..\obj\key_scan.o: ..\USER\stm32f10x_conf.h
+..\obj\key_scan.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\obj\key_scan.o: ..\USER\stm32f10x.h
+..\obj\key_scan.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\key_scan.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\key_scan.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\key_scan.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\key_scan.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\key_scan.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\key_scan.o: ..\SYSTEM\delay\delay.h
